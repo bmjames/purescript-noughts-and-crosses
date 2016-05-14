@@ -8,3 +8,7 @@ This project is based on [purescript-halogen-template](https://github.com/slamda
 
     $ npm install
     $ npm run build
+
+(or `npm run watch` to trigger a rebuild on a change.)
+
+Then, open `dist/index.html` in your browser.
